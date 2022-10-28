@@ -1,1 +1,67 @@
 Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Dasduino-purple/Dasduino CONNECT/.git/
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   .gitignore
+	modified:   CAD/Change Log.xlsx
+	modified:   CAD/V1.0.0/Sduino Nova2.kicad_pcb
+	modified:   CAD/V1.0.0/Sduino Nova2.kicad_pro
+	modified:   CAD/V1.0.0/Sduino Nova2.kicad_sch
+	modified:   CAD/V1.1.1/Dasduino_CONNECT.kicad_pcb
+	modified:   CAD/V1.1.1/Dasduino_CONNECT.kicad_pro
+	modified:   CAD/V1.1.1/Dasduino_CONNECT.kicad_sch
+	modified:   CAD/V1.1.1/PANEL/Dasduino_CONNECT.kicad_pcb
+	modified:   CAD/V1.1.1/PANEL/Dasduino_CONNECT.kicad_pro
+	modified:   LICENSE.md
+	new file:   OUTPUTS/Compliance/CE.pdf
+	new file:   OUTPUTS/Compliance/Info.txt
+	new file:   OUTPUTS/Compliance/Safety sheet DE.pdf
+	new file:   OUTPUTS/Compliance/Safety sheet EN.pdf
+	new file:   OUTPUTS/Compliance/UKCA.pdf
+	modified:   OUTPUTS/V1.0.0/Dasduino_CONNECT_gerber.zip
+	modified:   OUTPUTS/V1.0.0/Sduino Nova2_ibom.html
+	modified:   OUTPUTS/V1.1.1/Dasduino CONNECT.jpg
+	modified:   OUTPUTS/V1.1.1/Dasduino CONNECT_ibom.html
+	modified:   OUTPUTS/V1.1.1/Dasduino_CONNECT.pdf
+	modified:   OUTPUTS/V1.1.1/Dasduino_CONNECT_195.42x206.6_21.zip
+	modified:   OUTPUTS/V1.1.1/Dasduino_CONNECT_3D.step
+	modified:   OUTPUTS/V1.1.1/Dasduino_CONNECT_BOM.csv
+	modified:   README.md
+	new file:   log.txt
+
+[main 7b4bdf0] Updating open source files.
+ 26 files changed, 6 insertions(+)
+ mode change 100644 => 100755 .gitignore
+ mode change 100644 => 100755 CAD/Change Log.xlsx
+ mode change 100644 => 100755 CAD/V1.0.0/Sduino Nova2.kicad_pcb
+ mode change 100644 => 100755 CAD/V1.0.0/Sduino Nova2.kicad_pro
+ mode change 100644 => 100755 CAD/V1.0.0/Sduino Nova2.kicad_sch
+ mode change 100644 => 100755 CAD/V1.1.1/Dasduino_CONNECT.kicad_pcb
+ mode change 100644 => 100755 CAD/V1.1.1/Dasduino_CONNECT.kicad_pro
+ mode change 100644 => 100755 CAD/V1.1.1/Dasduino_CONNECT.kicad_sch
+ mode change 100644 => 100755 CAD/V1.1.1/PANEL/Dasduino_CONNECT.kicad_pcb
+ mode change 100644 => 100755 CAD/V1.1.1/PANEL/Dasduino_CONNECT.kicad_pro
+ mode change 100644 => 100755 LICENSE.md
+ create mode 100755 OUTPUTS/Compliance/CE.pdf
+ create mode 100755 OUTPUTS/Compliance/Info.txt
+ create mode 100755 OUTPUTS/Compliance/Safety sheet DE.pdf
+ create mode 100755 OUTPUTS/Compliance/Safety sheet EN.pdf
+ create mode 100755 OUTPUTS/Compliance/UKCA.pdf
+ mode change 100644 => 100755 OUTPUTS/V1.0.0/Dasduino_CONNECT_gerber.zip
+ mode change 100644 => 100755 OUTPUTS/V1.0.0/Sduino Nova2_ibom.html
+ mode change 100644 => 100755 OUTPUTS/V1.1.1/Dasduino CONNECT.jpg
+ mode change 100644 => 100755 OUTPUTS/V1.1.1/Dasduino CONNECT_ibom.html
+ mode change 100644 => 100755 OUTPUTS/V1.1.1/Dasduino_CONNECT.pdf
+ mode change 100644 => 100755 OUTPUTS/V1.1.1/Dasduino_CONNECT_195.42x206.6_21.zip
+ mode change 100644 => 100755 OUTPUTS/V1.1.1/Dasduino_CONNECT_3D.step
+ mode change 100644 => 100755 OUTPUTS/V1.1.1/Dasduino_CONNECT_BOM.csv
+ mode change 100644 => 100755 README.md
+ create mode 100755 log.txt
+https://github.com/SolderedElectronics/Dasduino-CONNECT-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Dasduino-purple/Dasduino CORE/OUTPUTS/V1.1.1: all files are present, commiting...
+Dasduino-CORE-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Dasduino-purple/Dasduino CORE to Dasduino-CORE-hardware-design
+Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Dasduino-purple/Dasduino CONNECT/.git/
