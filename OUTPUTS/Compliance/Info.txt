@@ -2,4 +2,4 @@ SKU: 333034, 333163, 333164
 Full product name: Dasduino CONNECT
 Country of origin: Croatia
 HS tariff code: 85340090
-EAN/UPC barcode: 
+EAN/UPC barcode: 732388673001, 732388663507, 732388663408
